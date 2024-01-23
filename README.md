@@ -1,4 +1,4 @@
-# TRhe Maze Runner
+# The Maze Runner
 
 ## Specifications
 
