@@ -17,10 +17,11 @@ This program explores a maze, finding a path from an entry point to an exit one.
 
 ## How to run this software?
 
-To build the program, simply package it with Maven:
+To build the program, simply package it with Maven and run the jar file:
 
 ```
-mosser@azrael A1-Template % mvn -q clean package 
+$ mvn package
+$ java -jar path/to/jar/file -i path/to/input/file
 ```
 
 #### Command line arguments
